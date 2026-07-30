@@ -23,12 +23,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Pages
-        # enablement: true 会在 Pages 未开启时自动启用（Source 自动设为 GitHub Actions）
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
