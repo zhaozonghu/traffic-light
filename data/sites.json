@@ -1,0 +1,753 @@
+[
+  {
+    "name": "AI 应用",
+    "sites": [
+      {
+        "name": "DeepSeek",
+        "logo": "/logos/329b6def-596b-4b6c-a6cf-da67ccd32925.svg",
+        "desc": "探索未至之境",
+        "tags": [
+          "人工智能",
+          "开源模型"
+        ],
+        "url": "https://www.deepseek.com/"
+      },
+      {
+        "name": "Trae",
+        "logo": "/logos/4d806e66-2dc0-4656-816c-adb5b5d82258.png",
+        "desc": "从需求理解、代码生成、测试到部署全流程自动化",
+        "tags": [
+          "SOLO",
+          "IDE"
+        ],
+        "url": "https://www.trae.ai/"
+      },
+      {
+        "name": "Cursor",
+        "logo": "/logos/bb9a1d1e-d177-4859-908b-2ded65f457e7.png",
+        "desc": "使用 AI 编写代码的最佳方式",
+        "tags": [
+          "Ai",
+          "编码",
+          "IDE"
+        ],
+        "url": "https://cursor.com/"
+      },
+      {
+        "name": "UI UX Pro Max",
+        "logo": "/logos/b1c52884-ffb4-4c43-97d2-8eaaeae4543a.svg",
+        "desc": "用户界面样式、配色方案、字体搭配、图表类型以及用户体验指南等内容的可搜索数据库",
+        "tags": [
+          "设计",
+          "界面",
+          "配色"
+        ],
+        "url": "https://ui-ux-pro-max-skill.nextlevelbuilder.io/"
+      },
+      {
+        "name": "AiShort",
+        "logo": "/logos/c1662981-8472-48ce-b318-81371697256c.svg",
+        "desc": "AI总是答非所问？AiShort收录论文写作、编程、翻译等场景的实用Prompt模板，一键复制即可让AI精准理解指令，工作效率翻倍！",
+        "tags": [
+          "Prompt",
+          "提示词"
+        ],
+        "url": "https://www.aishort.top/"
+      },
+      {
+        "name": "Qder",
+        "logo": "/logos/643bfd82-3b6b-45f2-9488-0e82b385f092.svg",
+        "desc": "一个为真正的软件开发而设计的代理编码平台。它将增强的上下文工程与智能代理无缝集成，以获得对代码库的全面理解，并系统地处理软件开发任务。",
+        "tags": [
+          "AI",
+          "IDE"
+        ],
+        "url": "https://qoder.com"
+      },
+      {
+        "name": "Kiro",
+        "logo": "/logos/e4592bf5-ba81-42b3-8aea-2358a725fec6.svg",
+        "desc": "一个新的代理 IDE ，与您一起从原型到生产",
+        "tags": [
+          "IDE"
+        ],
+        "url": "https://kiro.dev/"
+      },
+      {
+        "name": "CodeBuddy",
+        "logo": "/logos/a1c6da5a-8fd2-4b96-8126-fe417bd45ffb.svg",
+        "desc": "腾讯云 CodeBuddy 是下一代人工智能代码编辑器。依托腾讯元宝代码大模型，提供代码补全、错误诊断、技术问答、性能优化等服务。",
+        "tags": [
+          "IDE",
+          "AI"
+        ],
+        "url": "https://www.codebuddy.ai/"
+      },
+      {
+        "name": "Quillbot",
+        "logo": "/logos/043f9f77-ca09-4b6a-ba7c-b991f15beca7.png",
+        "desc": "全面的 AI 写作与语言优化解决方案",
+        "tags": [
+          "AI",
+          "文案改写"
+        ],
+        "url": "https://quillbot.com/"
+      },
+      {
+        "name": "Anthropic",
+        "logo": "/logos/61ad457f-775f-4cdd-bea8-7936c0f8fb90.svg",
+        "desc": "致力于打造更加智能、高效、安全的 AI 系统,为用户提供优质的语音交互体验。",
+        "tags": [
+          "AI",
+          "聊天机器人"
+        ],
+        "url": "https://www.anthropic.com/"
+      },
+      {
+        "name": "Notion",
+        "logo": "/logos/f56f25c9-480e-4274-9212-a59967b9843d.svg",
+        "desc": "一款写作助手,主要功能包括写作、编辑、总结等,可以自动生成文章、会议日程、新闻报道、社交媒体文案等等",
+        "tags": [
+          "AI",
+          "写作"
+        ],
+        "url": "https://www.notion.so/"
+      },
+      {
+        "name": "Deepl",
+        "logo": "/logos/9edae42d-777e-4705-ae16-ea8afe7a52ca.svg",
+        "desc": "全世界最准确的翻译",
+        "tags": [
+          "AI",
+          "翻译"
+        ],
+        "url": "https://www.deepl.com/"
+      },
+      {
+        "name": "Gemini",
+        "logo": "/logos/e4302302-ad8f-4fb2-9399-7ff1d1956233.svg",
+        "desc": "谷歌公司推出的一个人工智能大模型，能够在不同平台上运行，并包括三种不同规模的模型：Gemini Ultra、Gemini Pro和Gemini Nano。",
+        "tags": [
+          "AI",
+          "人工智能"
+        ],
+        "url": "https://gemini.google.com/"
+      },
+      {
+        "name": "MINIMAX",
+        "logo": "/logos/fd20623c-ce0c-40cc-8123-8a3376492c00.svg",
+        "desc": "领先的通用人工智能科技公司，致力于与用户共创智能",
+        "tags": [
+          "AI",
+          "人工智能"
+        ],
+        "url": "https://www.minimaxi.com/"
+      },
+      {
+        "name": "Kimi",
+        "logo": "/logos/b757ccce-3ea4-4c1e-bc06-e6946a69e1f1.svg",
+        "desc": "一个有着超大“内存”的智能助手,可以一口气读完二十万字的小说,还会上网冲浪,快来跟他聊聊吧",
+        "tags": [
+          "AI",
+          "智能助手"
+        ],
+        "url": "https://kimi.moonshot.cn/"
+      },
+      {
+        "name": "Coze",
+        "logo": "/logos/65d4c473-efe7-44aa-8663-be2abe0d64bc.png",
+        "desc": "AI 应用开发平台",
+        "tags": [
+          "机器人",
+          "Bot"
+        ],
+        "url": "https://www.coze.cn/"
+      },
+      {
+        "name": "ChatGPT",
+        "logo": "/logos/dd020f81-83cc-4495-9851-5805045a1c5c.svg",
+        "desc": "人工智能技术驱动的自然语言处理工具",
+        "tags": [
+          "AI",
+          "人工智能"
+        ],
+        "url": "https://chatgpt.com/"
+      },
+      {
+        "name": "豆包",
+        "logo": "/logos/5168863e-bfee-4cf7-bff2-865cedddfc1f.svg",
+        "desc": "抖音旗下 AI 智能 助手",
+        "tags": [
+          "AI",
+          "人工智能"
+        ],
+        "url": "https://www.doubao.com/"
+      },
+      {
+        "name": "通义千问",
+        "logo": "/logos/5e4106f3-8028-4561-8bae-6c2d833eb837.png",
+        "desc": "一个专门响应人类指令的大模型",
+        "tags": [
+          "AI",
+          "人工智能"
+        ],
+        "url": "https://www.qianwen.com/"
+      }
+    ]
+  },
+  {
+    "name": "实用工具",
+    "sites": [
+      {
+        "name": "NanoCloud",
+        "logo": "/logos/nano-cloud.png",
+        "desc": "一个拥有魔法的网站，旨在为用户提供灵活、经济的上网体验。",
+        "tags": [
+          "梯子"
+        ],
+        "url": "https://47.238.146.96/auth/register?code=AtLcwGH9"
+      },
+      {
+        "name": "MD2Card",
+        "logo": "/logos/bcb75ff5-4550-47d4-8b04-53484bc3e1a7.svg",
+        "desc": "将 Markdown 文档转换为精美的知识卡片，支持多种风格",
+        "tags": [
+          "知识卡片"
+        ],
+        "url": "https://md2card.cn/"
+      },
+      {
+        "name": "沉浸式翻译",
+        "logo": "/logos/6717d71e-219c-4a9b-82b8-a25bce8ab126.png",
+        "desc": "实时翻译外语网页，PDF翻译，EPUB电子书翻译，视频双语字幕翻译等",
+        "tags": [
+          "浏览器插件"
+        ],
+        "url": "https://immersivetranslate.com/"
+      },
+      {
+        "name": "Pixpin",
+        "logo": "/logos/8ec2fa42-4e87-49ca-871c-8385a3addeac.png",
+        "desc": "功能强大使用简单的截图/贴图工具，帮助你提高效率",
+        "tags": [
+          "截图",
+          "贴图",
+          "长截图"
+        ],
+        "url": "https://pixpinapp.com/"
+      },
+      {
+        "name": "codeimg",
+        "logo": "/logos/5914c9a1-76fa-40ca-b3cb-51269a3d5b2d.png",
+        "desc": "创建并分享您源代码的精美图片。",
+        "tags": [
+          "代码片段"
+        ],
+        "url": "https://codeimg.io/"
+      },
+      {
+        "name": "RealFaviconGenerator",
+        "logo": "/logos/a5e46913-eca9-48eb-9159-80276881f28e.webp",
+        "desc": "Favicon 图标生成器",
+        "tags": [
+          "ico",
+          "favicon"
+        ],
+        "url": "https://realfavicongenerator.net/"
+      },
+      {
+        "name": "AI工具集",
+        "logo": "/logos/cf212151-fb28-4a7f-8408-f97385e5ee89.png",
+        "desc": "1000+ AI工具集合，国内外AI工具集导航大全",
+        "tags": [
+          "AI工具"
+        ],
+        "url": "https://ai-bot.cn/"
+      }
+    ]
+  },
+  {
+    "name": "开发工具",
+    "sites": [
+      {
+        "name": "Motion",
+        "logo": "/logos/1ee5c354-7852-41de-8f69-88b47357b320.avif",
+        "desc": "一款专为 React、JavaScript 和 Vue 开发的快速、高品质的网页动画库。",
+        "tags": [
+          "动画"
+        ],
+        "url": "https://motion.dev/"
+      },
+      {
+        "name": "React Bits",
+        "logo": "/logos/b22cd20b-82f8-4346-9955-e895fc6b3fef.png",
+        "desc": "一个开源的高质量，动画，交互式和完全可定制的React组件集合，用于构建令人惊叹，令人难忘的用户界面。",
+        "tags": [
+          "特效",
+          "动画"
+        ],
+        "url": "https://reactbits.dev/"
+      },
+      {
+        "name": "Vue Bits",
+        "logo": "/logos/ddfdb22d-0f80-4d3d-b43a-6a690a0dc017.png",
+        "desc": "一个高质量，动画，交互式和完全可定制的Vue组件的开源集合，用于构建令人惊叹，令人难忘的用户界面。",
+        "tags": [
+          "特效",
+          "动画"
+        ],
+        "url": "https://vue-bits.dev/"
+      },
+      {
+        "name": "Better Auth",
+        "logo": "/logos/81027efd-e513-4c7e-b43a-061991a46537.png",
+        "desc": "一个与框架无关的通用认证和授权框架，适用于 TypeScript。它开箱即用，提供了全面的功能，并包含一个插件生态系统，简化了添加高级功能的过程。",
+        "tags": [
+          "身份认证",
+          "授权",
+          "SSO"
+        ],
+        "url": "https://www.better-auth.com/"
+      },
+      {
+        "name": "es-toolkit",
+        "logo": "/logos/d2cb6c0b-8562-4049-a093-265972f628da.png",
+        "desc": "最先进的JavaScript工具库",
+        "tags": [
+          "工具库"
+        ],
+        "url": "https://es-toolkit.dev/zh_hans/"
+      },
+      {
+        "name": "JSHaman",
+        "logo": "/logos/569ebb5d-8eb0-4d35-aa4f-19fe49acb0ff.ico",
+        "desc": "著名的JavaScript代码混淆加密平台，提供在线和离线JS代码混淆加密服务",
+        "tags": [
+          "JS加密",
+          "JS混淆",
+          "加密服务"
+        ],
+        "url": "https://www.jshaman.com/"
+      },
+      {
+        "name": "Tailwindcss",
+        "logo": "/logos/3d47b7db-5421-4c3c-8b44-376b6bea034d.svg",
+        "desc": "只需书写 HTML 代码，无需书写 CSS，即可快速构建美观的网站。",
+        "tags": [
+          "css"
+        ],
+        "url": "https://www.tailwindcss.cn/"
+      },
+      {
+        "name": "Lodash",
+        "logo": "/logos/a3f4bcb9-ec9a-449e-93aa-7ddfe595fa46.svg",
+        "desc": "一个一致性、模块化、高性能的 JavaScript 实用工具库。",
+        "tags": [
+          "工具"
+        ],
+        "url": "https://www.lodashjs.com/"
+      },
+      {
+        "name": "Ahooks",
+        "logo": "/logos/3dbab091-9519-4c67-b1b8-2e442b696fad.svg",
+        "desc": "一套高质量可靠的 React Hooks 库",
+        "tags": [
+          "React",
+          "Hooks"
+        ],
+        "url": "https://ahooks.js.org/"
+      },
+      {
+        "name": "UIVERSE",
+        "logo": "/logos/cb4feaec-16c4-4715-8dd2-ac9f8e723ce9.webp",
+        "desc": "社区制作的免费和可定制的UI元素库",
+        "tags": [
+          "元素",
+          "组件"
+        ],
+        "url": "https://uiverse.io/"
+      },
+      {
+        "name": "Inspira UI",
+        "logo": "/logos/30f2ddb4-c772-42cf-9367-b952fd16155b.svg",
+        "desc": "由TailwindCSS， motion-v， gsap和threejs驱动的可重用动画组件的集合",
+        "tags": [
+          "动画",
+          "组件"
+        ],
+        "url": "https://inspira-ui.com/"
+      },
+      {
+        "name": "unibest",
+        "logo": "/logos/unibest.svg",
+        "desc": "uniapp + Vue3 + Vite5 + Pnpm + TypeScript 最强组合的跨端开发模板，飞一般的编码体验。",
+        "tags": [
+          "uniapp",
+          "模板"
+        ],
+        "url": "https://unibest.tech/"
+      }
+    ]
+  },
+  {
+    "name": "优秀项目",
+    "sites": [
+      {
+        "name": "Number Flow",
+        "logo": "/logos/51f36711-6d13-499f-ac1b-9db8dec6569a.ico",
+        "desc": "一个动画数字组件",
+        "tags": [
+          "数字动画"
+        ],
+        "url": "https://number-flow.barvian.me/"
+      },
+      {
+        "name": "60s",
+        "logo": "/logos/2b54624a-4c46-4bfe-abfb-58a495fc6c30.svg",
+        "desc": "60s API 免费接口",
+        "tags": [
+          "接口服务",
+          "API"
+        ],
+        "url": "https://github.com/vikiboss/60s"
+      }
+    ]
+  },
+  {
+    "name": "UI 组件库",
+    "sites": [
+      {
+        "name": "Shadcn UI",
+        "logo": "/logos/52080f10-e169-4039-9063-9c5c7c338434.svg",
+        "desc": "一套设计精美的组件，您可以对其进行个性化设置、扩展以及自定义构建。从这里开始，然后将其变为属于您自己的作品。",
+        "tags": [
+          "开源",
+          "设计系统",
+          "组件"
+        ],
+        "url": "https://ui.shadcn.com/"
+      },
+      {
+        "name": "Ant Design",
+        "logo": "/logos/99b3a50c-beef-48c7-9a0e-32adc95ba0fc.svg",
+        "desc": "基于 Ant Design 设计体系的 React UI 组件库，适合企业级中后台产品与前台桌面网站。",
+        "tags": [
+          "UI",
+          "组件"
+        ],
+        "url": "https://ant-design.antgroup.com/"
+      },
+      {
+        "name": "Hero UI",
+        "logo": "/logos/cfbc2792-57fd-42cd-8faa-041b943ad315.png",
+        "desc": "美观、快速、现代的 React UI 库，用于构建易于访问和可定制的 Web 应用程序。",
+        "tags": [
+          "UI",
+          "React Aria"
+        ],
+        "url": "https://www.heroui.com/"
+      },
+      {
+        "name": "Gravity UI",
+        "logo": "/logos/a8709eee-0724-441d-bcb0-fd2f7d6a7677.png",
+        "desc": "一套灵活、实用且高效的 React 组件，用于创建功能丰富的网络应用程序。",
+        "tags": [
+          "组件",
+          "React",
+          "设计系统"
+        ],
+        "url": "https://gravity-ui.com/"
+      },
+      {
+        "name": "ElevenLabs UI",
+        "logo": "/logos/b6670951-0a8d-4097-b996-3a35a4623e06.png",
+        "desc": "一系列开源代理和音频组件，您可以对其进行个性化设置和扩展。",
+        "tags": [
+          "音频",
+          "视频",
+          "组件"
+        ],
+        "url": "https://ui.elevenlabs.io/"
+      },
+      {
+        "name": "daisy UI",
+        "logo": "/logos/b2ef68cf-f7e4-474a-8a29-4ebbcabc41ba.svg",
+        "desc": "一个 基于 Tailwind CSS 的组件库插件",
+        "tags": [
+          "tailwindcss"
+        ],
+        "url": "https://daisyui.com/"
+      },
+      {
+        "name": "Buou UI",
+        "logo": "/logos/154807ba-e9db-48d9-bb6c-761d7f72a72a.png",
+        "desc": "这是一个基于 TailwindCSS 的用户界面库，包含组件、页面部分、登录页面以及模板等。",
+        "tags": [
+          "组件",
+          "界面",
+          "UI"
+        ],
+        "url": "https://buouui.com/"
+      },
+      {
+        "name": "ReUI",
+        "logo": "/logos/d24e68da-96e0-45db-be29-aac6d4d3e6d0.png",
+        "desc": "一个基于 React、TypeScript、Tailwind CSS 和 Motion 构建的开源用户界面组件及动画效果集合，与 shadcn/ui 结合使用时效果极佳。",
+        "tags": [
+          "组件",
+          "动画"
+        ],
+        "url": "https://reui.io/"
+      },
+      {
+        "name": "Aceternity UI",
+        "logo": "/logos/23777508-3b57-4bf2-bfbc-49b326d86d26.png",
+        "desc": "精美的 Tailwind CSS 和 Framer Motion 组件，由 Next.js 和 TypeScript 构建而成。",
+        "tags": [
+          "组件",
+          "模板"
+        ],
+        "url": "https://ui.aceternity.com/"
+      },
+      {
+        "name": "Shadcn Studio",
+        "logo": "/logos/71d1e0c2-87a6-4f67-9772-e6eadc92c810.svg",
+        "desc": "完全可定制的 shadcn ui 组件、块、UI 套件、样板、模板和主题， 加速您的项目开发。",
+        "tags": [
+          "组件",
+          "模板",
+          "主题"
+        ],
+        "url": "https://shadcnstudio.com/"
+      },
+      {
+        "name": "Shadcn Blocks",
+        "logo": "/logos/ffd2350e-a979-46ce-be1d-7c82237dac33.svg",
+        "desc": "Shadcn UI 和 Tailwind 的终极模块集",
+        "tags": [
+          "模块",
+          "组件"
+        ],
+        "url": "https://www.shadcnblocks.com/"
+      },
+      {
+        "name": "21st",
+        "logo": "/logos/119609e6-68e3-4d9f-8251-247e1f520cf9.png",
+        "desc": "探索、复制并重新组合由设计师和开发者在 21st.dev 社区发布的数以千计的高质量 React 组件。",
+        "tags": [
+          "组件",
+          "社区"
+        ],
+        "url": "https://21st.dev/"
+      },
+      {
+        "name": "Magic UI",
+        "logo": "/logos/3eca870d-b310-4d51-9c1d-9dffc2e0b13d.svg",
+        "desc": "150 多个使用 React 、 Typescript 、 Tailwind CSS 和 Motion 构建的免费开源动画组件和效果，shadcn/ui 的完美搭档。",
+        "tags": [
+          "动画",
+          "组件",
+          "Moiton"
+        ],
+        "url": "https://magicui.design/"
+      },
+      {
+        "name": "Animate UI",
+        "logo": "/logos/8d9c8868-9f50-4677-95eb-4bf08345c9cd.png",
+        "desc": "帮助任何人在其 UI 中添加美观、易用且由 Motion 驱动的动画，同时保持网站的速度和可维护性。",
+        "tags": [
+          "动画",
+          "Moiton"
+        ],
+        "url": "https://animate-ui.com/"
+      },
+      {
+        "name": "Element Plus",
+        "logo": "/logos/element-plus.svg",
+        "desc": "基于 Vue 3，面向设计师和开发者的组件库。",
+        "tags": [
+          "Vue",
+          "组件"
+        ],
+        "url": "https://element-plus.org/zh-CN/"
+      }
+    ]
+  },
+  {
+    "name": "数据服务",
+    "sites": [
+      {
+        "name": "Supabase",
+        "logo": "/logos/c3eb19a0-bfe4-45e6-8af2-a9fccd35da9e.svg",
+        "desc": "Postgres数据库、身份验证、即时api、边缘函数、实时订阅、存储和矢量嵌入",
+        "tags": [
+          "postgres"
+        ],
+        "url": "https://supabase.com/"
+      },
+      {
+        "name": "Vercel",
+        "logo": "/logos/474c880e-550c-435a-a655-527a99ed3e43.svg",
+        "desc": "一个云平台,用于构建、部署和扩展无服务器应用程序和静态网站",
+        "tags": [
+          "构建",
+          "部署",
+          "网站"
+        ],
+        "url": "https://vercel.com/"
+      },
+      {
+        "name": "Wispbyte",
+        "logo": "/logos/c20626d3-340c-45cf-ae07-058f016a4dbd.webp",
+        "desc": "一家专注于为开发者和企业提供优质服务的托管服务提供商",
+        "tags": [
+          "托管服务"
+        ],
+        "url": "https://wispbyte.com/"
+      },
+      {
+        "name": "Drizzle",
+        "logo": "/logos/1d44a2a0-1fa4-4396-9f82-f56f06b752b6.svg",
+        "desc": "一款现代 TypeScript ORM，支持所有 PostgreSQL、MySQL 和 SQLite 数据库 ，包括无服务器数据库。",
+        "tags": [
+          "ORM",
+          "ServerLess"
+        ],
+        "url": "https://orm.drizzle.team/"
+      },
+      {
+        "name": "Sequelize",
+        "logo": "/logos/ba991282-ef81-45e4-8808-3852e49aae17.svg",
+        "desc": "一个现代的 TypeScript 和 Node.js ORM，适用于 Oracle、Postgres、MySQL、MariaDB、SQLite 和 SQL Server 等",
+        "tags": [
+          "ORM"
+        ],
+        "url": "https://sequelize.org/"
+      },
+      {
+        "name": "Zeabur",
+        "logo": "/logos/3459fc30-ce83-45ab-9a68-eb0706d9a55e.svg",
+        "desc": "为氛围编程而生，云部署 AI 智能体",
+        "tags": [
+          "AI",
+          "智能体",
+          "云托管"
+        ],
+        "url": "https://zeabur.com/"
+      },
+      {
+        "name": "Railway",
+        "logo": "/logos/ee323fd7-e9c7-415d-916a-05cb8751b643.png",
+        "desc": "一个专注于云服务部署和托管的开发者平台，旨在简化应用程序的部署、托管和运维流程",
+        "tags": [
+          "云服务",
+          "托管"
+        ],
+        "url": "https://railway.com/"
+      },
+      {
+        "name": "Prisma",
+        "logo": "/logos/68058d99-7775-4926-a2a2-e65485308b1a.svg",
+        "desc": "下一代 Node.js、TypeScript、Go 的数据库 ORM",
+        "tags": [
+          "ORM",
+          "开源"
+        ],
+        "url": "https://prisma.yoga/"
+      }
+    ]
+  },
+  {
+    "name": "文件处理",
+    "sites": [
+      {
+        "name": "TinyPNG",
+        "logo": "/logos/0cd2b6b6-591c-484d-9cd2-f92f8587e4a7.svg",
+        "desc": "智能压缩 WEBP、PNG 和 JPEG 图像",
+        "tags": [
+          "压缩"
+        ],
+        "url": "https://tinypng.com/"
+      },
+      {
+        "name": "ToSvg",
+        "logo": "/logos/95cd211a-5377-4690-b706-a79f4e070f35.png",
+        "desc": "可即时将 PNG 图像转换为 SVG 格式，免费在线 PNG 转 SVG 转换工具，可去除背景、调整大小并创建可缩放的矢量图。",
+        "tags": [
+          "格式转换",
+          "SVG"
+        ],
+        "url": "https://tosvg.com/"
+      },
+      {
+        "name": "Youcompress",
+        "logo": "/logos/70c4cf2b-927d-446a-898b-b3c6b4b6b823.svg",
+        "desc": "免费在线压缩 MP4、MOV、MP3、PDF、PNG、JPG、JPEG、GIF 文件。",
+        "tags": [
+          "文件压缩"
+        ],
+        "url": "https://www.youcompress.com/zh-cn/"
+      },
+      {
+        "name": "Zippic",
+        "logo": "/logos/d196b088-5fc4-4807-b611-a9c41d72e449.png",
+        "desc": "免费在线图片压缩",
+        "tags": [
+          "图片压缩"
+        ],
+        "url": "https://zippic.cn/"
+      },
+      {
+        "name": "TinyWow",
+        "logo": "/logos/fcaa1231-e9c7-4615-b61b-d922f27a279a.svg",
+        "desc": "免费的人工智能写作、PDF、图像及其他在线工具",
+        "tags": [
+          "PDF",
+          "图像",
+          "写作"
+        ],
+        "url": "https://tinywow.com/"
+      },
+      {
+        "name": "Video2Edit",
+        "logo": "/logos/35ebaa48-5985-4a62-a2a8-f0386903762e.png",
+        "desc": "免费在线视频转换与编辑器",
+        "tags": [
+          "视频转换",
+          "视频压缩"
+        ],
+        "url": "https://www.video2edit.com/"
+      },
+      {
+        "name": "Shots",
+        "logo": "/logos/bf29a87f-74c7-4693-8c2d-2d7b2b3ee1a0.png",
+        "desc": "免费的在线样机生成工具，专门帮助设计师和用户快速将UI设计图、截图或照片转换成专业美观的样机模型",
+        "tags": [
+          "截图",
+          "模型"
+        ],
+        "url": "https://shots.so/"
+      },
+      {
+        "name": "扣扣图",
+        "logo": "/logos/ab7475ff-f13e-401b-b7bc-662d36949729.png",
+        "desc": "永久免费 的在线抠图工具",
+        "tags": [
+          "免费",
+          "抠图"
+        ],
+        "url": "https://www.koukoutu.com/"
+      },
+      {
+        "name": "Removebg",
+        "logo": "/logos/6f0c0147-4572-48b2-a900-6c504ebc3926.svg",
+        "desc": "在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景",
+        "tags": [
+          "图像编辑",
+          "在线抠图"
+        ],
+        "url": "https://www.remove.bg/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+@import "tailwindcss";
+
+@theme {
+  /* 红绿灯三色（浅色主题下加深以保证对比度） */
+  --color-tl-red: #f5222d;
+  --color-tl-yellow: #d48806;
+  --color-tl-green: #389e0d;
+  /* 浅色主题 */
+  --color-tl-bg: #f5f6fa;
+  --color-tl-surface: #ffffff;
+  --color-tl-border: #e3e5ee;
+  --color-tl-fg: #17172b;
+
+  --animate-blink: blink 2.4s ease-in-out infinite;
+
+  @keyframes blink {
+    0%,
+    100% {
+      opacity: 1;
+      filter: drop-shadow(0 0 6px currentColor);
+    }
+    50% {
+      opacity: 0.35;
+      filter: none;
+    }
+  }
+}
+
+/* 深色主题：覆盖 token，所有工具类自动跟随 */
+.dark {
+  --color-tl-red: #ff4d4f;
+  --color-tl-yellow: #fadb14;
+  --color-tl-green: #52c41a;
+  --color-tl-bg: #08080f;
+  --color-tl-surface: #10101c;
+  --color-tl-border: #1f1f30;
+  --color-tl-fg: #e7e7ef;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-tl-bg);
+  color: var(--color-tl-fg);
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI",
+    "PingFang SC", "Microsoft YaHei", sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* 光射线背景层：白色光线在浅色主题下不可见，仅深色主题展示 */
+/* .light-rays-layer {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.dark .light-rays-layer {
+  opacity: 1;
+} */
+
+/* Border Glow 卡片（参考 reactbits.dev/components/border-glow）：
+   发光渐变沿边框追踪鼠标，mask 挖空内容区只留边框环 */
+.border-glow-card {
+  position: relative;
+}
+.border-glow-card::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  padding: 2px;
+  background: radial-gradient(
+    240px circle at var(--glow-x, 50%) var(--glow-y, 50%),
+    var(--glow-color, rgba(255, 255, 255, 0.7)),
+    transparent 70%
+  );
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  mask-composite: exclude;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  pointer-events: none;
+}
+.border-glow-card:hover::after {
+  opacity: 1;
+}
+
+/* 低端设备 / 用户偏好：关闭动效 */
+@media (prefers-reduced-motion: reduce) {
+  .animate-blink {
+    animation: none !important;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+/* 细滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: color-mix(in oklab, var(--color-tl-fg) 20%, transparent);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}

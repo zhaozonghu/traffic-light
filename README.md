@@ -1,2 +1,2 @@
 # traffic-light
-site safe navigation
+导航网站
