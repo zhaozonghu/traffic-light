@@ -44,6 +44,10 @@ export default function SiteCard({ site, accent }: SiteCardProps) {
   }, []);
 
   const showFallback = logoFailed || !site.logo;
+    // 本地 logo 路径需手动拼 basePath（GitHub Pages 子路径部署），远程 URL 不处理
+    const logoSrc = site.logo.startsWith("/")
+      ? `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}${site.logo}`
+      : site.logo;
 
   return (
     <div
@@ -69,7 +73,7 @@ export default function SiteCard({ site, accent }: SiteCardProps) {
           ) : (
             // eslint-disable-next-line @next/next/no-img-element
             <img
-              src={site.logo}
+              src={logoSrc}
               alt={site.name}
               className="h-11 w-11 shrink-0 rounded-xl bg-tl-fg/5 object-contain p-1"
               loading="lazy"
