@@ -263,6 +263,27 @@
           "AI工具"
         ],
         "url": "https://ai-bot.cn/"
+      },
+      {
+        "name": "Petdex",
+        "logo": "/logos/petdex.svg",
+        "desc": "面向编码代理的动画宠物图库，支持 Codex、Claude Code 等，一条命令即可浏览并安装",
+        "tags": [
+          "像素宠物",
+          "CLI"
+        ],
+        "url": "https://petdex.dev/"
+      },
+      {
+        "name": "PixelFX",
+        "logo": "/logos/pixelfx.svg",
+        "desc": "244 种像素艺术特效与动画，每个都是一小段代码，可实时播放、改色并导出精灵图",
+        "tags": [
+          "像素画",
+          "特效",
+          "动画"
+        ],
+        "url": "https://patch-gg.github.io/pixelfx/"
       }
     ]
   },
